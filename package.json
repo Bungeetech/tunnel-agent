@@ -1,11 +1,11 @@
 {
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.futurealoof.com)",
-  "name": "tunnel-agent",
+  "author": "Bungeetech",
+  "name": "bungee-tunnel-agent",
   "license": "Apache-2.0",
   "description": "HTTP proxy tunneling agent. Formerly part of mikeal/request, now a standalone module.",
   "version": "0.6.1",
   "repository": {
-    "url": "https://github.com/mikeal/tunnel-agent"
+    "url": "https://github.com/bungeetech/tunnel-agent"
   },
   "main": "index.js",
   "files": [
